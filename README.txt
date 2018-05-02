@@ -1,4 +1,3 @@
 test
 readme
-lalala
 wk
